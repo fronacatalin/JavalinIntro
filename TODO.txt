@@ -3,3 +3,10 @@
 3. Add RabbitMQ producer in Javalin.
 4. Add Repo for team to use.
 5. Add Confluence docs for team.
+
+
+
+Shell:
+6. Update TODO from Shell
+7. Push change back to repository
+8. Update again
